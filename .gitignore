@@ -1,0 +1,8 @@
+# from sbt
+target/
+
+# from IntelliJ IDEA
+.idea/
+
+# from macOS Desktop Services Store
+.DS_Store
